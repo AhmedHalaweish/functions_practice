@@ -1,3 +1,12 @@
+/*
+# based on practice tasks in https://www.w3resource.com/c-programming-exercises/function/index.php
+Write a program in C to print all perfect numbers in a given range using the function. 
+Input lowest search limit of perfect numbers : 1
+Input lowest search limit of perfect numbers : 100
+Expected Output :
+ The perfect numbers between 1 to 100 are :                                      
+ 6   28  
+*/
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h> //contains malloc function
